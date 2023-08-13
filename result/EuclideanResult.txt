@@ -1,0 +1,1497 @@
+Group 1:
+- what are the current mortgage rates?
+- 
+
+Group 2:
+- what's the stock price of general electric?
+- What is the stock price of General Motors?
+- What is the stock price of Tesla?
+
+Group 3:
+- what's the market cap of Qualcomm?
+
+Group 4:
+- what's Microsoft's trading volume?
+
+Group 5:
+- who's the CEO of Boeing?
+
+Group 6:
+- when was Facebook founded?
+- When was McDonald’s founded?
+
+Group 7:
+- when did Snapchat go public?
+
+Group 8:
+- how many euros are in a dollar?
+
+Group 9:
+- tell me NFL news.
+- Tell me some good news.
+
+Group 10:
+- what are the basketball scores?
+
+Group 11:
+- what's the NHL schedule?
+
+Group 12:
+- when do the Cowboys play next?
+
+Group 13:
+- what's the score of the Celtics game?
+- What was the score of the Warriors game?
+- What is the score of the Eagles game?
+- What is the score of the Red Sox game?
+- What's the game G.T.A?
+- What's the Easter egg game?
+
+Group 14:
+- what's the high today?
+
+Group 15:
+- how's the temperature on Tuesday?
+
+Group 16:
+- what's the weekend forecast?
+- what's the 7 day forecast?
+
+Group 17:
+- how windy is it?
+
+Group 18:
+- what are the polen levels?
+
+Group 19:
+- what's the uv index tomorrow?
+
+Group 20:
+- how much is the humidity?
+
+Group 21:
+- what's the temperature at 8am on Wednesday?
+
+Group 22:
+- what's the weather in New York?
+- What are some attractions in New York City?
+- What is the weather?
+- What is the weather in Canberra, Australia?
+
+Group 23:
+- what's the date?
+- What is the date tomorrow?
+
+Group 24:
+- when is Veterans Day?
+
+Group 25:
+- how many sticks of butter are in a cup?
+- how many ounces are in a cup?
+- How many milliliters are in a cup?
+- How many ounces in a pound?
+- convert on pound to ounces
+
+Group 26:
+- convert two tablespoons to teaspoons
+
+Group 27:
+- what is 300 degrees Fahrenheit in Celsius?
+- What is 90 degrees Fahrenheit in Celsius?
+
+Group 28:
+- how many calories are in an egg?
+- How many calories are in an ounce of cheddar cheese?
+- how many calories are in a donut
+
+Group 29:
+- what's my 2020 US Census recap?
+
+Group 30:
+- what is the population of Seattle?
+
+Group 31:
+- how many people live in the US?
+- how many people live in Wyoming?
+- how many people live in China
+- how many people live in Cincinnati
+
+Group 32:
+- how old is Tom Brady?
+
+Group 33:
+- what's the capital of Texas?
+- What's the capital of Mali?
+- What is the capital of Spain?
+
+Group 34:
+- how many miles are in 10 kilometers?
+- How many kilometers in a mile?
+
+Group 35:
+- how do you spell…misspell?
+- How do you spell appreciate?
+
+Group 36:
+- what's the definition of adept?
+
+Group 37:
+- tell me another word for helpful
+
+Group 38:
+- who wrote the book Moneyball?
+
+Group 39:
+- when was Harry Potter published?
+
+Group 40:
+- who wrote To Kill a Mockingbird?
+
+Group 41:
+- what's 99 divided by 12?
+- What is zero divided by zero?
+
+Group 42:
+- what's the area of a circle
+
+Group 43:
+- calculate Pi
+- What is pi?
+
+Group 44:
+- ask Wikipedia about artificial intelligence
+
+Group 45:
+- what's on TV tonight?
+
+Group 46:
+- what's the word for 'airplane' in Danish?
+
+Group 47:
+- translate 'house' into Russian
+
+Group 48:
+- how do you say 'table' in Portuguese?
+
+Group 49:
+- how do you say 'I love you' in French?
+- how do you say 'thank you' in German?
+- How do I say "Nice to meet you" in French? 
+- How do you say 'nice to meet you' in Mandarin?
+- How do you say 'thank you' in Italian?
+- How do you say 'Good Morning' in German?
+- Good Morning.
+- Who do you love?
+
+Group 50:
+- how do you say 'good morning' in Japanese?
+- How do you say hello in Japanese?
+- What's 'good morning' in French?
+
+Group 51:
+- what restaurants are nearby?
+- Find pizza restaurants nearby.
+
+Group 52:
+- what's the closest florist?
+
+Group 53:
+- is there a post office nearby?
+- is the post office open?
+
+Group 54:
+- find a top rated restaurant
+
+Group 55:
+- what's the phone number of a pizza place?
+
+Group 56:
+- where's the nearest gym?
+
+Group 57:
+- what's happening with COVID-19?
+
+Group 58:
+- how's traffic?
+- how is traffic to 100 Main Street?
+- how is traffic to the stadium?
+- how is traffic to Los Angeles?
+
+Group 59:
+- what's the status of Delta flight 1212?
+
+Group 60:
+- what's your favorite movie?
+- What's your favorite color?
+- What is your favorite flower?
+- What is your favorite game?
+- What is your favorite hobby?
+- What is your favorite sport?
+- Who is your favorite author?
+- Who is your favorite poet?
+- Who is your favorite superhero?
+- What is your favorite word?
+- Who is your favorite baseball player?
+- Who is your favorite PokÃľmon?
+
+Group 61:
+- are you left-handed?
+
+Group 62:
+- what's on your mind?
+- What is on your mind?
+
+Group 63:
+- what do you know about sports
+- do you know GLaDOS?
+
+Group 64:
+- what are your talents?
+
+Group 65:
+- what stories can you tell?
+- What can you do? 
+- can you do an impression
+- can you rap
+- What do you do on Roblox?
+
+Group 66:
+- what songs can you sing?
+
+Group 67:
+- tell me a riddle
+- Tell me a joke.
+- Tell me a palindrome.
+- Tell me a Star Wars joke.
+- give me a palindrome
+- Tell me a basketball joke
+- Tell me a pun
+- Tell me a shark joke
+- give me a blooper
+- give me a prank
+- give me a shark limerick
+- Star Wars or Star Trek
+- Tell me a joke about you
+
+Group 68:
+- sing a duet with Ed Sheeran
+
+Group 69:
+- roses are red…
+
+Group 70:
+- tell me a limerick
+- tell me a story
+- tell me a superhero story
+- tell me a love story
+- tell me a friendship story
+- tell me a camping story
+- Tell me a baseball story
+
+Group 71:
+- tell me a haiku
+- recite a haiku
+
+Group 72:
+- sing a barbershop quartet song
+- Sing a song
+- Sing a song for the 4th of July
+
+Group 73:
+- give me an Easter egg
+
+Group 74:
+- beam me up
+
+Group 75:
+- speak Klingon
+
+Group 76:
+- fire photon torpedoes
+
+Group 77:
+- you talkin' to me?
+
+Group 78:
+- who you gonna call?
+
+Group 79:
+- E.T phone home
+
+Group 80:
+- winter is coming
+
+Group 81:
+- there's always money in the banana stand
+
+Group 82:
+- binary solo
+
+Group 83:
+- is the cake a lie?
+
+Group 84:
+- up, up, down, down, left, right, left, right, B, A, start
+
+Group 85:
+- who let the dogs out
+
+Group 86:
+- what's the difference between Under Pressure and Ice Baby?
+
+Group 87:
+- more cowbell
+
+Group 88:
+- do you like green eggs and ham?
+
+Group 89:
+- what's the answer to life, the universe, and everything?
+
+Group 90:
+- Romeo, Romeo, wherefore art thou Romeo?
+
+Group 91:
+- speak in iambic pentameter
+
+Group 92:
+- pretend to be a superhero
+- pretend to be a super villain
+
+Group 93:
+- take me to your leader
+
+Group 94:
+- where's Chuck Norris?
+
+Group 95:
+- can you smell what The Rock is cooking?
+
+Group 96:
+- give me a football burn
+- Give me a patriots burn.
+
+Group 97:
+- tell me a Star Trek joke
+- tell me a golf joke
+- tell me a ninja joke
+- Tell me a barbecue joke.
+- Tell me a coffee joke.
+
+Group 98:
+- knock! Knock!
+
+Group 99:
+- What is Gilead trading at?
+- What is the S&P 500 trading at?
+
+Group 100:
+- How are the Warriors doing?
+
+Group 101:
+- What is the Warriors standings?
+- What is the Warriors record?
+
+Group 102:
+- When are the Warriors playing next?
+- Who are Warriors playing today?
+- Who are Warriors playing this week?
+- Who's playing in the NBA today?
+
+Group 103:
+- Did Warriors win or lose?
+
+Group 104:
+- NBA standings
+
+Group 105:
+- What's the weather tomorrow?
+- What's the weather like tomorrow morning?
+
+Group 106:
+- What's the weather for the next 4 days?
+
+Group 107:
+- What wil the weather be like between 1st and 5th?
+
+Group 108:
+- Is it sunny today?
+
+Group 109:
+- Will it rain tomorrow in London?
+- What time is it in London?
+- What time is it in Berlin?
+- Will it rain tomorrow?
+- What time is it?
+
+Group 110:
+- What's the weather this weekend in Mountain View?
+
+Group 111:
+- What's the weather in London?
+- What's the weather in Celsius?
+
+Group 112:
+- What time is it in Seoul?
+
+Group 113:
+- When is Christmas?
+
+Group 114:
+- How many days until Valentines day?
+- How many days until christmas?
+- How many days until Thanksgiving?
+
+Group 115:
+- What’s the animal of the day?
+- What is the tallest animal?
+- What is the tallest mountain?
+- What is the fastest animal in the world?
+- What is the tallest mountain to climb while in the UK?
+
+Group 116:
+- How tall is Barack Obama?
+
+Group 117:
+- How many Oscars has Denzel Washington won?
+
+Group 118:
+- Why is the sky blue?
+
+Group 119:
+- How far is the sun?
+- How hot is the sun?
+
+Group 120:
+- What is the smallest country in Europe?
+
+Group 121:
+- What is 15% of 92?
+- What’s 20% of 80?
+
+Group 122:
+- What's the 5th root of 97?
+- What's the square root of 2209?
+
+Group 123:
+- How many pounds are 2 kilos?
+
+Group 124:
+- 2 gallons are how many liters?
+
+Group 125:
+- How much fiber in kale?
+- How much fiber is in broccoli?
+
+Group 126:
+- How much sugar is there in a Coke?
+
+Group 127:
+- How do I spell vigorously?
+
+Group 128:
+- What does circumlocution mean?
+- What does "gregarious" mean?
+- What does gluttony mean?
+
+Group 129:
+- What are the 3 laws of robotics?
+
+Group 130:
+- Search for summer vacation ideas.
+
+Group 131:
+- How do you remove wine stains from a rug?
+
+Group 132:
+- Tell me about giraffes
+
+Group 133:
+- Where are pharmacies nearby?
+
+Group 134:
+- Any ATMs nearby?
+
+Group 135:
+- What's the phone number for the nearest Walgreens?
+
+Group 136:
+- What's the address for Walgreens in Pacifica?
+
+Group 137:
+- Is the Walgreens on Middlefield open right now?
+
+Group 138:
+- How long will it take to walk, train, bus, or bike to the library?
+- How long will it take to get to Costco?
+- How long will it take to get from work to San Francisco International Airport?
+
+Group 139:
+- Is United flight 1463 on time?
+
+Group 140:
+- Do you dream?
+- Do dogs dream?
+
+Group 141:
+- Tell me something interesting
+- Tell me something weird.
+
+Group 142:
+- Entertain me
+
+Group 143:
+- Let's have fun
+
+Group 144:
+- Talk like Yoda
+- Talk like a pirate.
+
+Group 145:
+- Where's Waldo?
+
+Group 146:
+- Do you know the muffin man?
+
+Group 147:
+- Is your refrigerator running?
+
+Group 148:
+- What's the Google stock price?
+
+Group 149:
+- Do I need a jacket today?
+- Do I need an umbrella today?
+
+Group 150:
+- Where was Albert Einstein born?
+
+Group 151:
+- How old is Beyonce?
+
+Group 152:
+- What's the tip for 42 dollars?
+- What’s a 15% tip on $85?
+
+Group 153:
+- What's 16 ounces in pounds?
+
+Group 154:
+- How do you say cucumber in Spanish?
+
+Group 155:
+- Directions to 1299 Colusa Avenue Berkeley California.
+
+Group 156:
+- Where's the closest coffee shop?
+
+Group 157:
+- How's the stock market doing today?
+
+Group 158:
+- What’s the market capitalization of Apple?
+
+Group 159:
+- Where’s the London Stock Exchange today?
+
+Group 160:
+- Compare AAPL and the NASDAQ.
+
+Group 161:
+- What baseball games are on?
+- How many games are there in squid games?
+
+Group 162:
+- Who’s leading in the Bundesliga right now?
+
+Group 163:
+- What’s the temperature outside?
+
+Group 164:
+- When is daylight saving time?
+- When does daylight saving time end?
+
+Group 165:
+- Convert 2 cups to ounces.
+
+Group 166:
+- How many grams are in a pound?
+
+Group 167:
+- How much caffeine is in coffee?
+
+Group 168:
+- How high is Mount Everest?
+
+Group 169:
+- What movie won Best Picture last year?
+
+Group 170:
+- Where’s a great place to eat Mexican food?
+
+Group 171:
+- What time does the Apple Store close?
+- What time does L.A. Fitness close? 
+
+Group 172:
+- Where’s the closest gas station?
+
+Group 173:
+- Give me the latest sports news.
+
+Group 174:
+- How's the traffic around downtown San Francisco?
+
+Group 175:
+- What's the fastest way to get to the airport from here?
+
+Group 176:
+- What is the price of bitcoin?
+- What is the price of silver?
+- What is the price of gold?
+- What is the price of Monero?
+
+Group 177:
+- What are the standings in the English Premier League?
+
+Group 178:
+- What is my sports update?
+
+Group 179:
+- What is the AFC North Standings?
+
+Group 180:
+- What were yesterdays scores?
+
+Group 181:
+- When is the NBA all star game?
+- Where is the MLB All-Star game being played?
+
+Group 182:
+- Who is playing Monday Night Football?
+
+Group 183:
+- Who is second in the NBA Western Conference?
+
+Group 184:
+- Who is winning the World Series?
+
+Group 185:
+- Who scored for the Golden Knights?
+
+Group 186:
+- What is the weather for Sunday?
+
+Group 187:
+- Announce Happy Valentines Day
+
+Group 188:
+- How many days are in September?
+- How many days in a year?
+- How many seconds are in a year?
+
+Group 189:
+- What is the time in Singapore?
+
+Group 190:
+- When is Boxing Day?
+
+Group 191:
+- When is Hanukkah?
+
+Group 192:
+- When is the next full moon?
+
+Group 193:
+- How deep is the Indian Ocean?
+
+Group 194:
+- How far away is the moon?
+
+Group 195:
+- How many fantasy points does LeBron James have?
+
+Group 196:
+- How much does an elephant weigh?
+
+Group 197:
+- How much is an ounce of gold?
+
+Group 198:
+- How old is Henry Winkler?
+
+Group 199:
+- How old is Serena Williams?
+
+Group 200:
+- How tall is Steph Curry?
+
+Group 201:
+- How tall is the Empire State Building?
+
+Group 202:
+- How tall is The Rock?
+
+Group 203:
+- Is a tomato a fruit or a vegetable?
+
+Group 204:
+- What are the most popular books this week?
+
+Group 205:
+- What happened in the midterm elections?
+
+Group 206:
+- What is brief mode?
+
+Group 207:
+- What is gluten?
+
+Group 208:
+- What is Homecoming about?
+
+Group 209:
+- What is Roblox?
+
+Group 210:
+- What is the best comedy movie?
+
+Group 211:
+- What is the fourth book in the Narnia series?
+
+Group 212:
+- What is the history of Labor Day?
+
+Group 213:
+- What is the longest word?
+
+Group 214:
+- What is the number one song this week?
+
+Group 215:
+- What is the scariest movie of all time?
+
+Group 216:
+- What is trending?
+
+Group 217:
+- What movies are playing?
+
+Group 218:
+- When does Game of Thrones return?
+
+Group 219:
+- Where did Yoda live?
+
+Group 220:
+- Where is Mount Rushmore?
+
+Group 221:
+- Who is in Mastodon?
+
+Group 222:
+- Who is nominated for best actor?
+
+Group 223:
+- Why do leaves change color in the fall?
+
+Group 224:
+- How many teaspoons are in a tablespoon?
+
+Group 225:
+- Translate good morning to Spanish.
+
+Group 226:
+- What are some flower shops nearby?
+
+Group 227:
+- What is my traffic report?
+
+Group 228:
+- Do you like cats or dogs?
+
+Group 229:
+- Help.
+
+Group 230:
+- How old are you?
+- how are you
+
+Group 231:
+- What are you thankful for? 
+
+Group 232:
+- What is your mission?
+
+Group 233:
+- Give me a dinosaur fact.
+- Give me a fun fact about sleep.
+- Tell me a fun fact.
+- Tell me a giraffe fact 
+- Give me a random fact.
+
+Group 234:
+- Tell me a Halloween hack.
+
+Group 235:
+- Flip a coin.
+
+Group 236:
+- Pick a number
+
+Group 237:
+- Surprise me.
+
+Group 238:
+- how did Dow Jones do today
+- How is the dow jones doing?
+
+Group 239:
+- how much does a Lamborghini cost
+
+Group 240:
+- What is Carrie Underwood’s net worth?
+
+Group 241:
+- What is the dollar to euro exchange rate?
+
+Group 242:
+- What is the net worth of Jennifer Lawrence?
+
+Group 243:
+- how many hits did Derek Jeter have in 2012
+
+Group 244:
+- how many rushing yards did Emmi Smith have in his career
+
+Group 245:
+- how many times has Duke been to the Final Four
+
+Group 246:
+- When does Wimbledon start?
+
+Group 247:
+- When is the Patriots’ first game?
+
+Group 248:
+- When is the Tour de France?
+
+Group 249:
+- Who does Alabama play in their first game?
+
+Group 250:
+- Who is leading the Players Championship?
+
+Group 251:
+- Who leads the WNBA in scoring?
+
+Group 252:
+- Who won the Winter Classic?
+
+Group 253:
+- Who is going to win the Final Four?
+
+Group 254:
+- What time are the Emmys?
+
+Group 255:
+- When is April Fools Day?
+
+Group 256:
+- When is Shark Week?
+
+Group 257:
+- When is the autumn equinox?
+
+Group 258:
+- When is the next lunar eclipse?
+
+Group 259:
+- define lexicon
+
+Group 260:
+- how do I keep my family in sync
+
+Group 261:
+- how do I play music everywhere
+
+Group 262:
+- how does the intercom work
+
+Group 263:
+- how many gallons of water are in th Atlantic Ocean
+
+Group 264:
+- how old is Queen Elizabeth
+
+Group 265:
+- is a hot dog a sandwich
+
+Group 266:
+- What are some good Halloween movies to watch?
+
+Group 267:
+- What are the best books of the year so far?
+
+Group 268:
+- What are the rarest skins in Fortnite? 
+
+Group 269:
+- What can I do with more than one Echo device?
+
+Group 270:
+- What is Don’t Worry, He Won’t Get Far on Foot movie about?
+
+Group 271:
+- What is the next book by Rachel Hollis?
+
+Group 272:
+- What is the upcoming book by Neil Gaiman?
+
+Group 273:
+- What should I be for Halloween?
+
+Group 274:
+- What time is Big Brother on TV?
+
+Group 275:
+- What is the birthday roundup?
+
+Group 276:
+- What is the most popular TV show?
+
+Group 277:
+- When do I have to register to vote?
+
+Group 278:
+- When does Avengers: Endgame release in theaters?
+
+Group 279:
+- When does fall begin?
+
+Group 280:
+- When does the new season of The Walking Dead premiere?
+
+Group 281:
+- Who invented GPS?
+
+Group 282:
+- Who is Peppa Pig?
+
+Group 283:
+- Who is Rainbow Dash?
+
+Group 284:
+- Who is running for Senate in California?
+
+Group 285:
+- Who signed the Declaration of Independence? 
+- How many colonies signed the Declaration of Independence?
+
+Group 286:
+- Who stars in Gringo?
+
+Group 287:
+- Who is hosting Saturday Night Live this weekend?
+
+Group 288:
+- how do I say happy birthday in Korea
+- how do you say happy birthday in Chinese
+
+Group 289:
+- are you skynet
+
+Group 290:
+- are you wearing green
+
+Group 291:
+- What are you reading?
+
+Group 292:
+- What languages can you translate?
+
+Group 293:
+- Who inspires you?
+
+Group 294:
+- Who is your favorite college basketball team?
+
+Group 295:
+- beatbox for me
+
+Group 296:
+- can you auto tune
+
+Group 297:
+- do the hokey pokey
+
+Group 298:
+- give me some bad poetry
+
+Group 299:
+- rap about the cloud
+
+Group 300:
+- Tell me a tongue twister
+
+Group 301:
+- drum roll please
+
+Group 302:
+- make animal noises
+
+Group 303:
+- Release the Kraken
+
+Group 304:
+- Roll the dice
+
+Group 305:
+- What's the world cup mascot?
+
+Group 306:
+- How many major league baseball games are there in one season?
+- What's the major league baseball record for wins in a season?
+- What's the major league baseball strikeout record?
+- How long is the major league baseball season?
+
+Group 307:
+- Who's playing the halftime show for the super bowl?
+
+Group 308:
+- Who is the m. v. p. in super bowl fifty six?
+
+Group 309:
+- Name a Utah ski resort?
+- What's the name of a Moroccan ski resort?
+
+Group 310:
+- What is the highest ski lift in North America?
+
+Group 311:
+- How old do you have to be to snowboard?
+- How old do you have to be to ski in the Olympics?
+
+Group 312:
+- How do you downhill ski?
+- How do you do a ski jump?
+
+Group 313:
+- Is ice skating hard?
+
+Group 314:
+- How fast can you go on a snowboard?
+
+Group 315:
+- Where was Earth Day created?
+
+Group 316:
+- What is the purpose of Earth Day?
+
+Group 317:
+- What do people usually do on Earth Day?
+- What do people do on mardi gras?
+- Where's mardi gras?
+- What are traditional mardi gras foods?
+
+Group 318:
+- Who founded international women's day?
+- What color is associated with international women's day?
+
+Group 319:
+- What time zone is the north pole in?
+
+Group 320:
+- Who was the first American-born president?
+
+Group 321:
+- What was the first capital of the United States?
+
+Group 322:
+- How many countries are there in north america?
+
+Group 323:
+- We're in this together movie?
+
+Group 324:
+- What's in a taco seasoning
+
+Group 325:
+- What's the history of oktoberfest?
+
+Group 326:
+- When does hocus pocus come out on disney plus?
+
+Group 327:
+- How many episodes are in season one house of the dragon?
+
+Group 328:
+- Did aaron judge hit a sixty first home run?
+
+Group 329:
+- When does stranger things volume two come out?
+
+Group 330:
+- When's the new season of fortnite coming out?
+- When is the new ice age movie coming out?
+
+Group 331:
+- Who plays elvis in the new movie elvis?
+
+Group 332:
+- Where was the winning mega millions ticket bought?
+
+Group 333:
+- What is the movie thor love and thunder about?
+
+Group 334:
+- What is an animal with a tall neck?
+
+Group 335:
+- What color is Kiki from Pokemon?
+
+Group 336:
+- In Minecraft can villagers break blocks?
+
+Group 337:
+- How do you win a game in Fortnite?
+
+Group 338:
+- How do you unlock Baby Luigi in Mario Kart Wii?
+
+Group 339:
+- How do you win Call Of Duty?
+
+Group 340:
+- Who was the first president to appear on television?
+
+Group 341:
+- Who is the first woman elected to the U. S. congress?
+
+Group 342:
+- Did Paul Revere say the British are coming?
+
+Group 343:
+- Who was king during the American Revolution?
+
+Group 344:
+- How many people fought in the American Revolution?
+
+Group 345:
+- What was the shortest war in American history?
+
+Group 346:
+- Who made the Liberty Bell?
+- Why is the Liberty Bell famous?
+
+Group 347:
+- Who sewed the American flag?
+
+Group 348:
+- How did the Fourth of July become a holiday?
+
+Group 349:
+- What's half of a third of a cup?
+
+Group 350:
+- What is the easiest world record to break?
+- How to break a world record?
+
+Group 351:
+- What is a crazy world record?
+
+Group 352:
+- What's the biggest Guinness world record?
+
+Group 353:
+- What's the world record for pushups?
+- What's the world record for squat?
+- What's the world record for handstand?
+- What's the world record for Lego?
+- What's the world record for showering?
+- What's the world record for staring?
+- What's the world record for tickling?
+
+Group 354:
+- What is the planking world record?
+- What is the Tetris world record?
+- What is the Minecraft world record?
+- What is the world record pumpkin?
+
+Group 355:
+- What's the Pac-Man world record?
+
+Group 356:
+- What's the world record for the longest Monopoly game?
+
+Group 357:
+- What's the Jenga world record?
+
+Group 358:
+- What's the world record hottest temperature?
+
+Group 359:
+- What's the world record snowfall?
+
+Group 360:
+- What's the facetime world record?
+
+Group 361:
+- How many years was victoria queen of england?
+
+Group 362:
+- What's inside south china sinkhole?
+
+Group 363:
+- When does top gun come out?
+- When does the hawkeye series come out?
+
+Group 364:
+- What is India's main cuisine? 
+
+Group 365:
+- Who is faster sonic the hedgehog or flash?
+
+Group 366:
+- What is holi?
+
+Group 367:
+- When does doctor strange come out?
+
+Group 368:
+- How do you tell a female cat from a male cat?
+
+Group 369:
+- How big is the smallest cat?
+
+Group 370:
+- How high can a guinea pig jump?
+- What colors can guinea pig see?
+
+Group 371:
+- How long can a dog remember?
+
+Group 372:
+- How long is one day for dogs?
+
+Group 373:
+- What colors can fish see?
+
+Group 374:
+- How long is one dog minute?
+
+Group 375:
+- How do dogs kiss?
+
+Group 376:
+- How does cat cry?
+
+Group 377:
+- Why are the grammys called the grammys?
+- Who won the most grammys at the grammys?
+- Who decides the grammys?
+
+Group 378:
+- Where is coachella held?
+
+Group 379:
+- How many people attend coachella?
+
+Group 380:
+- How long has coachella been going on?
+
+Group 381:
+- What is the most expensive vinyl record?
+
+Group 382:
+- When was the first vinyl record released?
+
+Group 383:
+- Do cherry blossom trees produce cherries?
+- Where do cherry blossom trees grow?
+
+Group 384:
+- What is the Cherry Blossom Parade?
+- When is peak cherry blossom season?
+
+Group 385:
+- Who invented the Easter egg hunt?
+
+Group 386:
+- What's the earliest Easter candy?
+
+Group 387:
+- What's the traditional meal for Easter?
+
+Group 388:
+- What kind of dogs protect Japanese homes?
+
+Group 389:
+- What's the size of our moon?
+
+Group 390:
+- Who won the twenty twenty two oscars?
+- What's the chinese zodiac for twenty twenty two?
+
+Group 391:
+- What is talking ben?
+
+Group 392:
+- Where is Yellowstone National Park?
+- Why is Yellowstone Park called Yellowstone?
+- Which president declared Yellowstone National Park?
+
+Group 393:
+- What state is the geyser Old Faithful in?
+
+Group 394:
+- When is the best time to visit Yellowstone?
+
+Group 395:
+- Can you see all of Yellowstone in one day
+
+Group 396:
+- Can you kayak in Yellowstone Lake?
+
+Group 397:
+- How often does Old Faithful erupt?
+
+Group 398:
+- Who was the first African American female to win an Oscar for best actress?
+
+Group 399:
+- How long did it take to make Encanto
+
+Group 400:
+- Which actor has won the most Oscars?
+
+Group 401:
+- When was the first mardi gras?
+
+Group 402:
+- Who wrote american national anthem?
+- How long is the national anthem?
+
+Group 403:
+- What battle inspired the star spangled banner?
+
+Group 404:
+- What is another word for four leaf clover?
+
+Group 405:
+- Who was Vice President when Johnson was President?
+- What years was President Nixon President?
+- How old was President Reagan when he became President?
+
+Group 406:
+- Which President was only President for thirty two days?
+
+Group 407:
+- Name the first five Presidents?
+
+Group 408:
+- What did Martin Luther King Sr. do?
+
+Group 409:
+- What is enneagram?
+
+Group 410:
+- What songs are in encanto?
+
+Group 411:
+- When is the royal rumble?
+
+Group 412:
+- Who is Cocomelon?
+
+Group 413:
+- Who are Thing One and Thing Two?
+
+Group 414:
+- What’s Welcome to Bloxburg?
+
+Group 415:
+- What's Blippi's name?
+
+Group 416:
+- Why do cats knead?
+
+Group 417:
+- What's a snow ranger?
+
+Group 418:
+- Where do robins migrate in the winter?
+
+Group 419:
+- Did the james webb telescope launch?
+
+Group 420:
+- What is the game Secret Santa?
+
+Group 421:
+- How do you hang up a Christmas tree?
+
+Group 422:
+- What do most people have for Christmas dinner?
+
+Group 423:
+- What breed should a first time pet owner have?
+
+Group 424:
+- When does a puppy stop growing?
+
+Group 425:
+- How long does it take to house train a puppy?
+
+Group 426:
+- What type of salt is best for brining chicken?
+
+Group 427:
+- What is a good replacement for sour cream in recipes?
+
+Group 428:
+- How many episodes are in The Book of Boba Fett?
+- Did George Lucas direct The Book of Boba Fett?
+
+Group 429:
+- Does the actor that played Jango play Boba Fett?
+
+Group 430:
+- When is the movie spider-man noway home coming out?
+
+Group 431:
+- When do the elf on the shelf come?
+
+Group 432:
+- Who makes Corona beer?
+
+Group 433:
+- Who sings "it's a fools game"?
+
+Group 434:
+- What's the La Brea Tar Pits?
+
+Group 435:
+- When is the two thousand twenty one boston marathon?
+
+Group 436:
+- When do you plant pumpkins?
+
+Group 437:
+- How is pumpkin pie made?
+
+Group 438:
+- What is “It's A Great Pumpkin, Charlie Brown“?
+
+Group 439:
+- What year did trick-or-treating become popular?
+
+Group 440:
+- What does la fondue mean?
+
+Group 441:
+- What is a good amount of time to spend in Tokyo?
+
+Group 442:
+- What's the closest national park to Salem Oregon?
+

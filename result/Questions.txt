@@ -1,0 +1,613 @@
+what are the current mortgage rates?
+what's the stock price of general electric?
+what's the market cap of Qualcomm?
+what's Microsoft's trading volume?
+who's the CEO of Boeing?
+when was Facebook founded?
+when did Snapchat go public?
+how many euros are in a dollar?
+tell me NFL news.
+what are the basketball scores?
+what's the NHL schedule?
+when do the Cowboys play next?
+what's the score of the Celtics game?
+what's the high today?
+how's the temperature on Tuesday?
+what's the weekend forecast?
+how windy is it?
+what are the polen levels?
+what's the uv index tomorrow?
+how much is the humidity?
+what's the 7 day forecast?
+what's the temperature at 8am on Wednesday?
+what's the weather in New York?
+what's the date?
+when is Veterans Day?
+how many sticks of butter are in a cup?
+convert two tablespoons to teaspoons
+what is 300 degrees Fahrenheit in Celsius?
+how many calories are in an egg?
+what's my 2020 US Census recap?
+what is the population of Seattle?
+how many people live in the US?
+how old is Tom Brady?
+what's the capital of Texas?
+how many people live in Wyoming?
+how many ounces are in a cup?
+how many miles are in 10 kilometers?
+how do you spell…misspell?
+what's the definition of adept?
+tell me another word for helpful
+who wrote the book Moneyball?
+when was Harry Potter published?
+who wrote To Kill a Mockingbird?
+what's 99 divided by 12?
+what's the area of a circle
+calculate Pi
+ask Wikipedia about artificial intelligence
+what's on TV tonight?
+what's the word for 'airplane' in Danish?
+translate 'house' into Russian
+how do you say 'table' in Portuguese?
+how do you say 'I love you' in French?
+how do you say 'good morning' in Japanese?
+how do you say 'thank you' in German?
+what restaurants are nearby?
+what's the closest florist?
+is there a post office nearby?
+find a top rated restaurant
+is the post office open?
+what's the phone number of a pizza place?
+where's the nearest gym?
+what's happening with COVID-19?
+how's traffic?
+how is traffic to 100 Main Street?
+how is traffic to the stadium?
+how is traffic to Los Angeles?
+what's the status of Delta flight 1212?
+what's your favorite movie?
+are you left-handed?
+what's on your mind?
+what do you know about sports
+what are your talents?
+what stories can you tell?
+what songs can you sing?
+tell me a riddle
+sing a duet with Ed Sheeran
+roses are red…
+tell me a limerick
+tell me a haiku
+tell me a story
+tell me a superhero story
+tell me a love story
+tell me a friendship story
+tell me a camping story
+sing a barbershop quartet song
+give me an Easter egg
+beam me up
+speak Klingon
+fire photon torpedoes
+you talkin' to me?
+who you gonna call?
+E.T phone home
+winter is coming
+there's always money in the banana stand
+binary solo
+do you know GLaDOS?
+is the cake a lie?
+up, up, down, down, left, right, left, right, B, A, start
+who let the dogs out
+what's the difference between Under Pressure and Ice Baby?
+more cowbell
+do you like green eggs and ham?
+what's the answer to life, the universe, and everything?
+Romeo, Romeo, wherefore art thou Romeo?
+speak in iambic pentameter
+pretend to be a superhero
+take me to your leader
+where's Chuck Norris?
+can you smell what The Rock is cooking?
+give me a football burn
+tell me a Star Trek joke
+tell me a golf joke
+tell me a ninja joke
+knock! Knock!
+What is Gilead trading at?
+What is the S&P 500 trading at?
+What was the score of the Warriors game?
+How are the Warriors doing?
+What is the Warriors standings?
+What is the Warriors record?
+When are the Warriors playing next?
+Who are Warriors playing today?
+Who are Warriors playing this week?
+Who's playing in the NBA today?
+Did Warriors win or lose?
+NBA standings
+What's the weather tomorrow?
+What's the weather for the next 4 days?
+What wil the weather be like between 1st and 5th?
+Is it sunny today?
+Will it rain tomorrow in London?
+What's the weather this weekend in Mountain View?
+What's the weather in London?
+What's the weather in Celsius?
+What time is it in Seoul?
+When is Christmas?
+How many days until Valentines day?
+What’s the animal of the day?
+How tall is Barack Obama?
+What's the capital of Mali?
+How many Oscars has Denzel Washington won?
+Why is the sky blue?
+How far is the sun?
+What is the smallest country in Europe?
+What is 15% of 92?
+What's the 5th root of 97?
+How many pounds are 2 kilos?
+2 gallons are how many liters?
+How much fiber in kale?
+How much sugar is there in a Coke?
+How do I spell vigorously?
+What does circumlocution mean?
+What are the 3 laws of robotics?
+What’s 20% of 80?
+What does "gregarious" mean?
+How many kilometers in a mile?
+Search for summer vacation ideas.
+How do you remove wine stains from a rug?
+Tell me about giraffes
+How do you say hello in Japanese?
+What's 'good morning' in French?
+How do I say "Nice to meet you" in French? 
+Where are pharmacies nearby?
+Any ATMs nearby?
+What's the phone number for the nearest Walgreens?
+What's the address for Walgreens in Pacifica?
+Is the Walgreens on Middlefield open right now?
+Find pizza restaurants nearby.
+How long will it take to walk, train, bus, or bike to the library?
+How long will it take to get to Costco?
+How long will it take to get from work to San Francisco International Airport?
+Is United flight 1463 on time?
+Do you dream?
+What's your favorite color?
+Sing a song
+Tell me something interesting
+Entertain me
+Let's have fun
+Talk like Yoda
+Where's Waldo?
+Do you know the muffin man?
+Is your refrigerator running?
+What's the Google stock price?
+Do I need a jacket today?
+What's the weather like tomorrow morning?
+What time is it in London?
+Where was Albert Einstein born?
+How old is Beyonce?
+What's the tip for 42 dollars?
+What does gluttony mean?
+What's 16 ounces in pounds?
+What's the square root of 2209?
+How do you say cucumber in Spanish?
+Directions to 1299 Colusa Avenue Berkeley California.
+Where's the closest coffee shop?
+What are some attractions in New York City?
+How's the stock market doing today?
+What’s the market capitalization of Apple?
+Where’s the London Stock Exchange today?
+Compare AAPL and the NASDAQ.
+What baseball games are on?
+Who’s leading in the Bundesliga right now?
+What’s the temperature outside?
+Do I need an umbrella today?
+What time is it in Berlin?
+When is daylight saving time?
+How many milliliters are in a cup?
+Convert 2 cups to ounces.
+How many grams are in a pound?
+How many calories are in an ounce of cheddar cheese?
+How much caffeine is in coffee?
+How much fiber is in broccoli?
+What’s a 15% tip on $85?
+How high is Mount Everest?
+What movie won Best Picture last year?
+How do you say 'nice to meet you' in Mandarin?
+How do you say 'thank you' in Italian?
+How do you say 'Good Morning' in German?
+Where’s a great place to eat Mexican food?
+What time does the Apple Store close?
+Where’s the closest gas station?
+Give me the latest sports news.
+How's the traffic around downtown San Francisco?
+What's the fastest way to get to the airport from here?
+What is the price of bitcoin?
+What are the standings in the English Premier League?
+What is my sports update?
+What is the AFC North Standings?
+What is the score of the Eagles game?
+What is the score of the Red Sox game?
+What were yesterdays scores?
+When is the NBA all star game?
+Who is playing Monday Night Football?
+Who is second in the NBA Western Conference?
+Who is winning the World Series?
+Who scored for the Golden Knights?
+What is the weather for Sunday?
+What is the weather?
+Will it rain tomorrow?
+Announce Happy Valentines Day
+How many days are in September?
+How many days in a year?
+How many days until christmas?
+How many days until Thanksgiving?
+What is the date tomorrow?
+What is the time in Singapore?
+When does daylight saving time end?
+When is Boxing Day?
+When is Hanukkah?
+When is the next full moon?
+How deep is the Indian Ocean?
+How do you spell appreciate?
+How far away is the moon?
+How hot is the sun?
+How many fantasy points does LeBron James have?
+How many ounces in a pound?
+How many seconds are in a year?
+How much does an elephant weigh?
+How much is an ounce of gold?
+How old is Henry Winkler?
+How old is Serena Williams?
+How tall is Steph Curry?
+How tall is the Empire State Building?
+How tall is The Rock?
+Is a tomato a fruit or a vegetable?
+What are the most popular books this week?
+What happened in the midterm elections?
+What is brief mode?
+What is gluten?
+What is Homecoming about?
+What is Roblox?
+What is the best comedy movie?
+What is the capital of Spain?
+What is the fourth book in the Narnia series?
+What is the history of Labor Day?
+What is the longest word?
+What is the number one song this week?
+What is the scariest movie of all time?
+What is trending?
+What is zero divided by zero?
+What movies are playing?
+When does Game of Thrones return?
+Where did Yoda live?
+Where is Mount Rushmore?
+Who is in Mastodon?
+Who is nominated for best actor?
+Why do leaves change color in the fall?
+Do dogs dream?
+How many teaspoons are in a tablespoon?
+Translate good morning to Spanish.
+What are some flower shops nearby?
+What is my traffic report?
+Do you like cats or dogs?
+Good Morning.
+Help.
+How old are you?
+What are you thankful for? 
+What can you do? 
+What is on your mind?
+What is your favorite flower?
+What is your favorite game?
+What is your favorite hobby?
+What is your favorite sport?
+What is your mission?
+Who do you love?
+Who is your favorite author?
+Who is your favorite poet?
+Who is your favorite superhero?
+Give me a dinosaur fact.
+Give me a fun fact about sleep.
+Give me a patriots burn.
+Tell me a barbecue joke.
+Tell me a coffee joke.
+Tell me a fun fact.
+Tell me a Halloween hack.
+Tell me a joke.
+Tell me a palindrome.
+Tell me some good news.
+Tell me something weird.
+Flip a coin.
+Pick a number
+Surprise me.
+Talk like a pirate.
+Tell me a Star Wars joke.
+how did Dow Jones do today
+how much does a Lamborghini cost
+What is Carrie Underwood’s net worth?
+What is the dollar to euro exchange rate?
+What is the stock price of General Motors?
+What is the net worth of Jennifer Lawrence?
+how many hits did Derek Jeter have in 2012
+how many rushing yards did Emmi Smith have in his career
+how many times has Duke been to the Final Four
+When does Wimbledon start?
+When is the Patriots’ first game?
+When is the Tour de France?
+Where is the MLB All-Star game being played?
+Who does Alabama play in their first game?
+Who is leading the Players Championship?
+Who leads the WNBA in scoring?
+Who won the Winter Classic?
+Who is going to win the Final Four?
+What time are the Emmys?
+When is April Fools Day?
+When is Shark Week?
+When is the autumn equinox?
+When is the next lunar eclipse?
+convert on pound to ounces
+define lexicon
+give me a palindrome
+how do I keep my family in sync
+how do I play music everywhere
+how does the intercom work
+how many calories are in a donut
+how many gallons of water are in th Atlantic Ocean
+how many people live in China
+how many people live in Cincinnati
+how old is Queen Elizabeth
+is a hot dog a sandwich
+Tell me a giraffe fact 
+What are some good Halloween movies to watch?
+What are the best books of the year so far?
+What are the rarest skins in Fortnite? 
+What can I do with more than one Echo device?
+What is 90 degrees Fahrenheit in Celsius?
+What is pi?
+What is Don’t Worry, He Won’t Get Far on Foot movie about?
+What is the next book by Rachel Hollis?
+What is the tallest animal?
+What is the tallest mountain?
+What is the upcoming book by Neil Gaiman?
+What should I be for Halloween?
+What time is Big Brother on TV?
+What is the birthday roundup?
+What is the most popular TV show?
+When do I have to register to vote?
+When does Avengers: Endgame release in theaters?
+When does fall begin?
+When does the new season of The Walking Dead premiere?
+When was McDonald’s founded?
+Who invented GPS?
+Who is Peppa Pig?
+Who is Rainbow Dash?
+Who is running for Senate in California?
+Who signed the Declaration of Independence? 
+Who stars in Gringo?
+Who is hosting Saturday Night Live this weekend?
+how do I say happy birthday in Korea
+how do you say happy birthday in Chinese
+What time does L.A. Fitness close? 
+are you skynet
+are you wearing green
+how are you
+What are you reading?
+What languages can you translate?
+What is your favorite word?
+Who inspires you?
+Who is your favorite baseball player?
+Who is your favorite PokÃľmon?
+Who is your favorite college basketball team?
+beatbox for me
+can you auto tune
+can you do an impression
+can you rap
+do the hokey pokey
+give me some bad poetry
+rap about the cloud
+recite a haiku
+Sing a song for the 4th of July
+Tell me a baseball story
+Tell me a basketball joke
+Tell me a pun
+Tell me a shark joke
+Tell me a tongue twister
+drum roll please
+give me a blooper
+give me a prank
+give me a shark limerick
+make animal noises
+pretend to be a super villain
+Release the Kraken
+Roll the dice
+Star Wars or Star Trek
+Tell me a joke about you
+What is the price of silver?
+How is the dow jones doing?
+What is the price of gold?
+What is the price of Monero?
+What is the stock price of Tesla?
+What is the weather in Canberra, Australia?
+What time is it?
+What is the fastest animal in the world?
+Give me a random fact.
+What's the world cup mascot?
+How many major league baseball games are there in one season?
+What's the major league baseball record for wins in a season?
+What's the major league baseball strikeout record?
+How long is the major league baseball season?
+Who's playing the halftime show for the super bowl?
+Who is the m. v. p. in super bowl fifty six?
+Name a Utah ski resort?
+What is the highest ski lift in North America?
+What's the name of a Moroccan ski resort?
+How old do you have to be to snowboard?
+How do you downhill ski?
+Is ice skating hard?
+How fast can you go on a snowboard?
+How do you do a ski jump?
+How old do you have to be to ski in the Olympics?
+Where was Earth Day created?
+What is the purpose of Earth Day?
+What do people usually do on Earth Day?
+Who founded international women's day?
+What color is associated with international women's day?
+What time zone is the north pole in?
+Who was the first American-born president?
+What was the first capital of the United States?
+How many countries are there in north america?
+We're in this together movie?
+What's in a taco seasoning
+What's the history of oktoberfest?
+When does hocus pocus come out on disney plus?
+How many episodes are in season one house of the dragon?
+Did aaron judge hit a sixty first home run?
+When does stranger things volume two come out?
+When's the new season of fortnite coming out?
+Who plays elvis in the new movie elvis?
+Where was the winning mega millions ticket bought?
+What is the movie thor love and thunder about?
+What is an animal with a tall neck?
+What color is Kiki from Pokemon?
+What's the game G.T.A?
+What do you do on Roblox?
+In Minecraft can villagers break blocks?
+How do you win a game in Fortnite?
+How do you unlock Baby Luigi in Mario Kart Wii?
+How do you win Call Of Duty?
+Who was the first president to appear on television?
+Who is the first woman elected to the U. S. congress?
+Did Paul Revere say the British are coming?
+Who was king during the American Revolution?
+How many people fought in the American Revolution?
+What was the shortest war in American history?
+Who made the Liberty Bell?
+Who sewed the American flag?
+How many colonies signed the Declaration of Independence?
+How did the Fourth of July become a holiday?
+What's half of a third of a cup?
+What is the easiest world record to break?
+What is a crazy world record?
+How to break a world record?
+What's the biggest Guinness world record?
+What's the world record for pushups?
+What is the planking world record?
+What's the world record for squat?
+What's the world record for handstand?
+What is the Tetris world record?
+What is the Minecraft world record?
+What's the Pac-Man world record?
+What's the world record for Lego?
+What's the world record for the longest Monopoly game?
+What's the Jenga world record?
+What's the world record hottest temperature?
+What's the world record snowfall?
+What is the world record pumpkin?
+What's the facetime world record?
+What's the world record for showering?
+What's the world record for staring?
+What's the world record for tickling?
+How many years was victoria queen of england?
+What's inside south china sinkhole?
+When does top gun come out?
+What is India's main cuisine? 
+Who is faster sonic the hedgehog or flash?
+What is holi?
+When does doctor strange come out?
+How do you tell a female cat from a male cat?
+How big is the smallest cat?
+How high can a guinea pig jump?
+How long can a dog remember?
+How long is one day for dogs?
+What colors can fish see?
+How long is one dog minute?
+What colors can guinea pig see?
+How do dogs kiss?
+How does cat cry?
+Why are the grammys called the grammys?
+Who won the most grammys at the grammys?
+Who decides the grammys?
+Where is coachella held?
+How many people attend coachella?
+How long has coachella been going on?
+What is the most expensive vinyl record?
+When was the first vinyl record released?
+Do cherry blossom trees produce cherries?
+What is the Cherry Blossom Parade?
+When is peak cherry blossom season?
+Where do cherry blossom trees grow?
+Who invented the Easter egg hunt?
+What's the earliest Easter candy?
+What's the Easter egg game?
+What's the traditional meal for Easter?
+What kind of dogs protect Japanese homes?
+What's the size of our moon?
+Why is the Liberty Bell famous?
+Who won the twenty twenty two oscars?
+What do people do on mardi gras?
+What is talking ben?
+Where is Yellowstone National Park?
+Why is Yellowstone Park called Yellowstone?
+Which president declared Yellowstone National Park?
+What state is the geyser Old Faithful in?
+When is the best time to visit Yellowstone?
+Can you see all of Yellowstone in one day
+Can you kayak in Yellowstone Lake?
+How often does Old Faithful erupt?
+Who was the first African American female to win an Oscar for best actress?
+How long did it take to make Encanto
+Which actor has won the most Oscars?
+When was the first mardi gras?
+Where's mardi gras?
+What are traditional mardi gras foods?
+Who wrote american national anthem?
+How long is the national anthem?
+What battle inspired the star spangled banner?
+What is another word for four leaf clover?
+Who was Vice President when Johnson was President?
+What years was President Nixon President?
+How old was President Reagan when he became President?
+Which President was only President for thirty two days?
+Name the first five Presidents?
+What did Martin Luther King Sr. do?
+What is enneagram?
+What songs are in encanto?
+When is the royal rumble?
+When is the new ice age movie coming out?
+Who is Cocomelon?
+Who are Thing One and Thing Two?
+What’s Welcome to Bloxburg?
+What's Blippi's name?
+Why do cats knead?
+What's a snow ranger?
+Where do robins migrate in the winter?
+Did the james webb telescope launch?
+What's the chinese zodiac for twenty twenty two?
+What is the game Secret Santa?
+How do you hang up a Christmas tree?
+What do most people have for Christmas dinner?
+What breed should a first time pet owner have?
+When does a puppy stop growing?
+How long does it take to house train a puppy?
+What type of salt is best for brining chicken?
+What is a good replacement for sour cream in recipes?
+How many episodes are in The Book of Boba Fett?
+Did George Lucas direct The Book of Boba Fett?
+Does the actor that played Jango play Boba Fett?
+When does the hawkeye series come out?
+When is the movie spider-man noway home coming out?
+When do the elf on the shelf come?
+Who makes Corona beer?
+Who sings "it's a fools game"?
+What's the La Brea Tar Pits?
+When is the two thousand twenty one boston marathon?
+How many games are there in squid games?
+When do you plant pumpkins?
+How is pumpkin pie made?
+What is “It's A Great Pumpkin, Charlie Brown“?
+What year did trick-or-treating become popular?
+What does la fondue mean?
+What is the tallest mountain to climb while in the UK?
+What is a good amount of time to spend in Tokyo?
+What's the closest national park to Salem Oregon?
+
